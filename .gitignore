@@ -1,0 +1,6 @@
+# Ignore everything
+*
+# Except
+!.gitignore
+!Galaxy_of_the_Archer*
+!The_Marvelous_Grounds*
